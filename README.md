@@ -26,6 +26,7 @@ Be sure to report any issues or bugs and fixes, I am happy to accept pull reques
 If you have an altcoin you would like to add please let me know.  
 
 Donations Welcome
+-----
  * Donate Bitcoin: 14mQJuAo7g17GH7Z9QjRGui9DbknD2tKws 
  * Donate Ethereum : 0x0a2e960da73c477923664e43b3912c68a68dcaba
  * Donate Bitcoin Cash : 1CXN5uH19gSLjR5MUUnFzrHEiD2TYp4EoJ 
