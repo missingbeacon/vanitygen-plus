@@ -22,14 +22,15 @@ and with the following changes:
  + Manually merge changes from: bitkevin For fix hd 68/69xx, 7xxx   
  + Manually merge changes from: wolf9466 For Groestlcoin address support  
 
-**WARNING!** This program has not been thoroughly tested.  Please attempt importing an address first.  
-Send a tiny amount you don't mind losing to the address.  Then perform a test spend.  
-I will not be held liable for lost funds as a result of the use of this program.  
-Also do not use this program for nefarious purposes!  I do not condone illegal activity.  
-The chances of actually brute forcing an address is nearly impossible anyways.  
-
 Be sure to report any issues or bugs and fixes, I am happy to accept pull requests!  
 If you have an altcoin you would like to add please let me know.  
+
+Donate Bitcoin: 14mQJuAo7g17GH7Z9QjRGui9DbknD2tKws
+Donate Ethereum : 0x0a2e960da73c477923664e43b3912c68a68dcaba
+Donate Bitcoin Cash : 1CXN5uH19gSLjR5MUUnFzrHEiD2TYp4EoJ
+Donate QTUM : 0x0a2e960da73c477923664e43b3912c68a68dcaba
+Donate Litecoin: LSL74jcKBVepoqWwa23F4MxP1WqgvPrECY
+Donate Dash: XuVNXcG1Lckwstq5xz4ye6gcSisffr8c53
 
 -----
 Getting Started  
